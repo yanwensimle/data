@@ -1,0 +1,5 @@
+v2是训练和验证用的数据集
+训练用的脚本为Train_PFNet2.py
+加载数据集用shapenet_part_loader1.py
+可视化用show_recon1.py
+计算对比指标用show_CD1.py
